@@ -1,0 +1,3 @@
+[127.0.0.1][2023-03-13T17:10:41+02:00][manufacturer=&color=&year=][ERROR]
+[127.0.0.1][2023-03-13T17:12:07+02:00][manufacturer=2713&color=13&year=2019][OK]
+[127.0.0.1][2023-03-13T17:13:01+02:00][manufacturer=2713&color=13&year=2019][OK]
